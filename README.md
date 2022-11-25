@@ -1,9 +1,24 @@
 ## Olá! Eu sou o Sergio Moreira
 
 - 🔭 Hoje trabalho com Front-end e Back-end
-- 🌱 estudando Node, Javascript
+- 🌱 Estudando Node, Javascript
+- - 😄 Pronouns: ele/dele
 - ⚡ Web3
 
+
+
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
 ##
 
 <div align="center">
