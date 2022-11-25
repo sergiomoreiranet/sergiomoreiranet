@@ -2,23 +2,10 @@
 
 - 🔭 Hoje trabalho com Front-end e Back-end
 - 🌱 Estudando Node, Javascript
-- - 😄 Pronouns: ele/dele
+- 👯 Estou trabalhando num projeto de Bot para criptomoedas
+- 😄 Pronouns: ele/dele
 - ⚡ Web3
 
-
-
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 ##
 
 <div align="center">
